@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vehicles", "Vehicles\Vehicles.csproj", "{7A444299-FC6A-45F6-8F5C-5853083CCFB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raiding", "Raiding\Raiding.csproj", "{7AA7F62C-0CBD-40E2-900A-DD876E0342DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildFarm", "WildFarm\WildFarm.csproj", "{99AFE17F-FEBA-4E62-A640-8EB2575CDDCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A444299-FC6A-45F6-8F5C-5853083CCFB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A444299-FC6A-45F6-8F5C-5853083CCFB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A444299-FC6A-45F6-8F5C-5853083CCFB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A444299-FC6A-45F6-8F5C-5853083CCFB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AA7F62C-0CBD-40E2-900A-DD876E0342DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA7F62C-0CBD-40E2-900A-DD876E0342DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA7F62C-0CBD-40E2-900A-DD876E0342DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA7F62C-0CBD-40E2-900A-DD876E0342DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99AFE17F-FEBA-4E62-A640-8EB2575CDDCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AFE17F-FEBA-4E62-A640-8EB2575CDDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AFE17F-FEBA-4E62-A640-8EB2575CDDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AFE17F-FEBA-4E62-A640-8EB2575CDDCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {162648F3-9D08-45EE-BC92-D226CD960067}
+	EndGlobalSection
+EndGlobal
